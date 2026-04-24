@@ -1,2 +1,2 @@
-26.463
-Cập nhật tự động
+26.465
+Tính năng mới: Cập nhật tự động phần mềm, Tối ưu hóa giao diện người dùng

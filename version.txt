@@ -1,2 +1,2 @@
-26.465
-Tính năng mới: Cập nhật tự động phần mềm, Tối ưu hóa giao diện người dùng
+26.5
+Tính năng mới: Nhập tiền giường tự động, Tối ưu nhập ngày, Tối ưu hóa giao diện người dùng

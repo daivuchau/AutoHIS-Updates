@@ -1,2 +1,2 @@
-26.51
+26.512
 Tính năng mới: Nhập tiền giường tự động, Thêm cách viết y lệnh cho thuốc nhỏ và thoa, Copy y lệnh, Tối ưu nhập ngày, Tối ưu hóa giao diện người dùng, các thông báo.
